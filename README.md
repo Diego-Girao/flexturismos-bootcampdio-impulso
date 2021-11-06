@@ -16,5 +16,4 @@
 ✅ CSS - Flexbox
 
 ## Projeto Online 🔗
-✅ https://diego-girao.github.io/flexturismos-bootcampdio-impulso/
-
+✅ <a href="https://diego-girao.github.io/flexturismos-bootcampdio-impulso/" target="_blank">FLEXTURISMO</a>
